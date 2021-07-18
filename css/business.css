@@ -1,3 +1,4 @@
+
 .business_top {
   width: 100%;
   display: flex;
@@ -19,7 +20,7 @@
   opacity: 0.5;
 }
 .business_top li small {
-  color: #ff8856;
+  color: #078C0C;
 }
 #business_list1,
 #business_list2,
@@ -39,7 +40,7 @@
 
 .business_list h1 small {
   font-size: 12px;
-  color: #ff8856;
+  color: #078C0C;
 }
 
 .business_list h2 {
@@ -58,10 +59,12 @@
 }
 .business_item1 {
   width: 40%;
+  height: 500px;
   display: inline-block;
   position: relative;
   z-index: 2;
   overflow: hidden;
+
 }
 
 .business_item2 {
@@ -124,7 +127,7 @@
   float: right;
   width: 13%;
   text-align: center;
-  background: #ff8856;
+  background: #078C0C;
   padding: 10px 20px;
   margin: 0 17% 8% 0;
 }
@@ -166,7 +169,7 @@
 
 .letter_list h2 small {
   font-size: 15px;
-  color: #ff8856;
+  color: #078C0C;
 }
 .letter_item p {
   letter-spacing: 3px;
