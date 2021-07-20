@@ -23,7 +23,8 @@
   padding: 100px 0 30px;
 }
 .ir_news .ir_news_list {
-  margin: 0 50px;
+
+  margin: 20px 50px;
   text-align: left;
   padding: 30px;
 }
@@ -46,7 +47,7 @@ td {
   position: relative;
   left: 0px;
   right: 0;
-  margin: auto;
+  margin: 20px auto;
 }
 .stock_price h4 {
   font-size: 30px;
@@ -61,10 +62,9 @@ td {
 
 .policy_bg {
   background: #eee;
-  width: 85%;
+  width: 90%;
   height: 400px;
-  float: right;
-  position: relative;
+  margin: 20px auto;
   z-index: 0;
 }
 .policy_element {
